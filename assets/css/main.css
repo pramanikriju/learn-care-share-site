@@ -2410,7 +2410,7 @@ input[type="radio"]:focus + label:before {
 }
 
 .icon.style1 {
-    color: #efa8b0;
+    color: #83c77a;
 }
 
 .icon.style2 {
@@ -2418,7 +2418,7 @@ input[type="radio"]:focus + label:before {
 }
 
 .icon.style3 {
-    color: #a89cc8;
+    color: #f26963;
 }
 
 .icon.style4 {
@@ -2426,7 +2426,7 @@ input[type="radio"]:focus + label:before {
 }
 
 .icon.style5 {
-    color: #8cc9f0;
+    color: #6b7171;
 }
 
 @media screen and (max-width: 1680px) {
